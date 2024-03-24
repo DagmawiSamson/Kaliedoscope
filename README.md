@@ -1,2 +1,2 @@
 # Kaliedoscope
-Kaleidscope Reataurant Managment
+Kaleidscope Restaurant Managment
